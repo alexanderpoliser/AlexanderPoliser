@@ -1,7 +1,6 @@
 ## Olá, eu sou o Alexander 👋
 
 ### About me <h3>
-- 👨‍💻 Minha paixão pela tecnologia se iniciou muito cedo, aos 12 anos de idade, quando ganhei meu primeiro computador, a partir daquele momento eu fiquei fascinado por esse mundo e desde então estou em constante aprendizado.
 - 📚 Atualmente estou cursando Engenharia de Computação na FACENS - Sorocaba/SP
   
 <div>
