@@ -1,4 +1,4 @@
-## Olá, eu sou o Alexander 👋
+##  Seja bem-vindo(a) 😎
 
 ### About me <h3>
 - 📚 Atualmente estou cursando Engenharia de Computação na FACENS - Sorocaba/SP
@@ -20,6 +20,11 @@
   <div>
     <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  </div>
+  <h3>Learning:</h3>
+  <div>
+  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
  <h3>How to reach me:</h3>
 <div>
