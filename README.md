@@ -2,8 +2,8 @@
 - 📚 Atualmente estou cursando o 6° semestre de Engenharia de Computação na FACENS - Sorocaba/SP
 <div>
   <a href="https://github.com/AlexanderPoliser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPoliser&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPoliser&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPoliser&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPoliser&theme=tokyonight">
 </div>
 <h3>Tech stack 💻</h3>
 <h3>Front-end:</h3>
