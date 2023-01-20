@@ -1,5 +1,5 @@
 ### About me <h3>
-- 📚 Atualmente estou cursando o 7° semestre de Engenharia de Computação na FACENS - Sorocaba/SP
+- 📚 Atualmente estou cursando o 7° semestre de Engenharia de Computação
 <div>
   <a href="https://github.com/AlexanderPoliser">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPoliser&show_icons=true&count_private=true">
