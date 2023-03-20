@@ -2,8 +2,8 @@
 - 📚 Atualmente estou cursando o 7° semestre de Engenharia de Computação
 <div>
   <a href="https://github.com/AlexanderPoliser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPoliser&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPoliser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderpoliser&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderpoliser">
 </div>
 <h3>Tech stack 💻</h3>
 <h3>Front-end:</h3>
