@@ -1,5 +1,5 @@
 ## About me
-- My name is Alexander Poliser, I'm 21 years old and a ***Computer Engineering*** student, interested in improving and sharing my knowledge in ***Software Development*** and current market technologies.
+- My name is Alexander Poliser, I'm 22 years old and a ***Computer Engineering*** student, interested in improving and sharing my knowledge in ***Software Development*** and current market technologies.
 
  ## How to reach me:
   
