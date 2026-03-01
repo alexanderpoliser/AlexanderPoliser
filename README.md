@@ -11,7 +11,7 @@ I'm not sure how you ended up here, but let me take a moment to share a bit abou
 * **Name**: Alexander Poliser
 * **Age**: 24
 * **Living in**: São Paulo - SP, Brazil
-* **Stack**: Java - Spring Boot - Javascript - Node.js - PostgreSQL - Angular - React - Google Cloud Platform - AWS
+* **Stack**: Java - Spring Boot - Javascript - Node.js - PostgreSQL - Angular - React - Google Cloud Platform - Amazon Web Services
 * **Learning**: Go
 * **University**: Computer Engineering, Centro Universitário FACENS (2024)
 
