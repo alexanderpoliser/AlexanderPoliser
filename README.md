@@ -8,11 +8,11 @@
 
 I'm not sure how you ended up here, but let me take a moment to share a bit about myself with you.
 
-## Detailed information
-
 * **Name**: Alexander Poliser
 * **Age**: 24
 * **Living in**: São Paulo - SP, Brazil
 * **Stack**: Java - Spring Boot - Javascript - Node.js - PostgreSQL - Angular - React - Google Cloud Platform - AWS
 * **Learning**: Go
 * **University**: Computer Engineering, Centro Universitário FACENS (2024)
+
+Full-time engineer, part-time bug creator
